@@ -9,26 +9,29 @@
   
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
 <div id="badges">
-<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/">
+<a href="https://www.linkedin.com/in/daniel-alberto-calderon-avenda%C3%B1o-553b0a272/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.instagram.com/shaunak_chandra/">
+<a href="">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
-<a href="mailto:aqchandra15@gmail.com">
+<a href="mailto:calderon.daniel1202@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
-<a href="https://leetcode.com/aqchandra15/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
 </a>
 </div>
 
 
 ### Hi there 👋🎉
 
-My name is **Shaunak Chandra** and welcome to my profile.
+My name is **Daniel Calderon** and welcome to my profile.
 
-I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+Hello! I’m Daniel Calderón, a software developer. 😉👌
+
+I am a person who is passionate about development and technology. I am very dedicated and always ready to learn new things. I have experience in backend development with Java and web technologies. I also like to explore new tools to improve my skills.
+
+Besides technical things, I really value teamwork. I am friendly, like to collaborate, and I always enjoy sharing knowledge and learning from others.
+
+And of course, let’s not forget how important English is! 😊🥳
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
   
@@ -43,16 +46,13 @@ I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute o
 ## 📬 Contact me
 
 <p align=center>
-    <a href="https://github.com/hungpham3112" target="_blank">
+    <a href="https://github.com/Danca091021" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
+    <a href="https://www.linkedin.com/in/daniel-alberto-calderon-avenda%C3%B1o-553b0a272/" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:phamhung20022015@gmail.com" target="_blank">
+    <a href="mailto:calderon.daniel1202@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
